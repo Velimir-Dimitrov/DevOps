@@ -4,3 +4,6 @@ This is a playground for the lab from the Git Branching and Pull Requests lesson
 ## Exercise 1
 - Repo was cloned from https://github.com/SUContent/playground
 - Local changes made in the file here
+
+## Exercise 2
+-change readme from github
